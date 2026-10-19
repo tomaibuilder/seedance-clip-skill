@@ -13,11 +13,13 @@ A Claude Code skill for Dreamina Seedance 2.5 video generation on the BytePlus M
 
 ## Install
 
-```bash
-git clone https://github.com/tomaibuilder/seedance-clip-skill ~/.claude/skills/seedance-clip
+Paste this into Claude Code:
+
+```
+Install this skill for me: https://github.com/tomaibuilder/seedance-clip-skill
 ```
 
-Put your BytePlus key in an `.env` file as `ARK_API_KEY`. Then ask Claude Code to "make a Seedance clip".
+Claude does the rest. Then put your BytePlus key in an `.env` file as `ARK_API_KEY` and ask Claude Code to "make a Seedance clip".
 
 ## Notes
 
